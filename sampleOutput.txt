@@ -1,0 +1,68 @@
+blu@coyote posix $ a.out 5 5 5
+0
+0
+0
+Producer produced 897551880
+Producer produced 192180061
+Consumer consumed 897551880
+Producer produced 783422609
+Producer produced 1929207706
+Producer produced 1210703211
+Producer produced 1943456834
+Producer produced 118223809
+Consumer consumed 192180061
+Consumer consumed 783422609
+Producer produced 1987858346
+Consumer consumed 1929207706
+Producer produced 1634864280
+Consumer consumed 1210703211
+Consumer consumed 1943456834
+Producer produced 826364880
+Producer produced 391284495
+Producer produced 1557928647
+Consumer consumed 118223809
+
+
+----------------------------------
+
+blu@coyote posix $ a.out 5 10 5
+0
+0
+0
+Producer produced 1312399852
+Producer produced 316906111
+Producer produced 1811248802
+Producer produced 453133724
+Producer produced 1835418220
+Consumer consumed 1312399852
+Consumer consumed 316906111
+Consumer consumed 1811248802
+Consumer consumed 453133724
+Producer produced 1244680915
+Producer produced 1796902778
+Producer produced 1332189388
+Consumer consumed 1835418220
+Consumer consumed 1244680915
+Producer produced 1323457963
+Producer produced 1405736007
+Producer produced 1852200431
+Consumer consumed 1796902778
+Producer produced 1304129229
+Producer produced 2057240450
+Consumer consumed 1332189388
+Consumer consumed 1323457963
+Consumer consumed 1405736007
+Producer produced 882964927
+Producer produced 1842164455
+Consumer consumed 1852200431
+Producer produced 981982367
+Consumer consumed 1304129229
+Producer produced 2114418941
+Consumer consumed 2057240450
+Producer produced 789869287
+Consumer consumed 882964927
+Producer produced 1245791623
+Producer produced 1055172648
+Consumer consumed 1842164455
+Consumer consumed 981982367
+Producer produced 965212953
